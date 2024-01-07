@@ -48,7 +48,8 @@ class  AMoviesController extends Controller {
             $status = filter_input(INPUT_POST, 'status', FILTER_SANITIZE_STRING);
             $category = filter_input(INPUT_POST, 'category', FILTER_SANITIZE_STRING);
             $country = filter_input(INPUT_POST, 'country', FILTER_SANITIZE_STRING);
-            $result = $this->AMoviesModel->addNewMovies($name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country);
+            $link_embed = filter_input(INPUT_POST, 'link_embed', FILTER_SANITIZE_STRING);
+            $result = $this->AMoviesModel->addNewMovies($name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country, $link_embed);
             if ($result){
                 header('Location: /amovies/');
             }

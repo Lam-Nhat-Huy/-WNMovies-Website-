@@ -43,7 +43,7 @@
                                                 <td><?= $r['country'] ?></td>
                                                 <td><?= $r['category'] ?></td>
                                                 <td>
-                                                    <a href="/amovies/detail/?slug=<?= $r['slug'] ?>" class="btn btn-info btn-sm"><i class="mdi mdi-calendar-text"></i></a>
+                                                    <a href="/amovies/detail/?slug=<?= $r['slug'] ?>" class="btn btn-info btn-sm"><i class="mdi mdi-pencil"></i></a>
                                                     <a href="" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc muốn xóa phim này?')"><i class="mdi mdi-delete"></i></a>
                                                 </td>
                                             </tr>

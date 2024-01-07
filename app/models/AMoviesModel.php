@@ -34,21 +34,22 @@ class AMoviesModel extends Database {
         return $i['data'];
     }
 
-    public function addNewMovies($name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country)
+    public function addNewMovies($name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country, $link_embed)
     {
         try {
-            $sql = "INSERT INTO `movies` (name,thumb_url,origin_name,content,year,time,slug,lang,quality,status,category,country)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-                ";
+            $sql = "INSERT INTO movies (name, thumb_url, origin_name, content, year, time, slug, lang, quality, status, category, country, link_embed)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
             $stmt = $this->conn->prepare($sql);
-            $stmt->bind_param('ssssssssssss', $name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country);
+            $stmt->bind_param('sssssssssssss', $name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country, $link_embed);
             if ($stmt->execute()){
                 $_SESSION['message_success'] = alertSuccess('Bạn đã công chiếu phim thành công');
-                header('Location: /amoive/');
+                header('Location: /amovies/');
             }
             $stmt->close();
         } catch (Exception $e) {
-            echo "Errors" . $e->getMessage();
+            error_log("Error: " . $e->getMessage());
+            $_SESSION['message_error'] = alertError('An error occurred while adding the movie. Please try again.');
+            header('Location: /amovies/');
         }
     }
 

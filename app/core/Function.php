@@ -81,3 +81,33 @@ function alertError(){
                 </script>               
            ";
 }
+
+function displayErrorAlerts($errors) {
+    if (!empty($errors)) {
+        echo '<div id="error-alerts-container" class="mt-5">';
+        foreach ($errors as $error) {
+            echo '<div class="alert alert-danger alert-dismissible fade show custom-alert" role="alert">
+                      <strong>Error!</strong> ' . $error . '
+                      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                </div>';
+        }
+        echo '</div>';
+        echo '
+            <style>
+                @keyframes fadeIn {
+                    from {
+                        opacity: 0;
+                    }
+                    to {
+                        opacity: 1;
+                    }
+                }
+                .custom-alert {
+                    animation: fadeIn 0.5s ease-in-out;
+                }
+            </style>
+        ';
+    }
+}

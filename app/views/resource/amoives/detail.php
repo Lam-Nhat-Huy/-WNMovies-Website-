@@ -79,6 +79,8 @@
                                 <input type="hidden" name="lang" value="<?php echo $data['getSlugMovies']['movie']['lang']; ?>">
                                 <input type="hidden" name="quality" value="<?php echo $data['getSlugMovies']['movie']['quality']; ?>">
                                 <input type="hidden" name="status" value="<?php echo $data['getSlugMovies']['movie']['status']; ?>">
+                                <input type="hidden" name="link_embed" value="<?= $data['getSlugMovies']['episodes'][0]['server_data'][0]['link_embed'] ?>">
+
                                 <?php foreach ($datas['category'] as $index => $r) { ?>
                                     <input type="hidden" name="category" value="<?php echo $r['name']; ?>">
                                 <?php } ?>

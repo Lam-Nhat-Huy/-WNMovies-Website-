@@ -11,66 +11,70 @@
                             <div class="col-6">
                                 <div class="form-group">
                                     <label for="exampleInputName1">Tên Phim (Movie Name)</label>
-                                    <input type="text" class="form-control" id="exampleInputName1" placeholder="" name="movie-name">
+                                    <input type="text" class="form-control" id="exampleInputName1" placeholder="" name="name">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleInputName1">Link ảnh (Thumb Url)</label>
+                                    <input type="text" class="form-control" id="exampleInputName1" placeholder="" name="thumb_url">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-group">
                                     <label for="exampleInputEmail3">Tên chính thức (Official Name)</label>
-                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="officical-name">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <label for="exampleInputName1">Thời gian</label>
-                                    <input type="text" class="form-control" id="exampleInputName1" placeholder="" name="movie-time">
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="origin_name">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-group">
-                                    <label for="exampleInputEmail3">Chất lượng phim</label>
-                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="movie-quality">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <label for="exampleInputPassword4">Quốc gia</label>
-                                    <input type="text" class="form-control" id="exampleInputPassword4" placeholder="" name="movie-country">
+                                    <label for="exampleInputEmail3">Mô tả (Content)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="content">
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="form-group">
-                                    <label for="exampleSelectGenre">Phụ đề</label>
-                                    <select class="form-control" id="exampleSelectGenre" name="movie-subtittle">
-                                        <option>Thuyết minh</option>
-                                        <option>Vietsub</option>
+                                    <label for="exampleInputEmail3">Năm phát hành (Year)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="year">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail3">Thời lượng (Time)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="time">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail3">Slug Phim (Slug)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="slug">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail3">Phụ đề (Lang)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="lang">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleInputEmail3">Chất lượng (Quality)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="quality">
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="form-group">
+                                    <label for="exampleSelectStatus">Trạng thái (Status)</label>
+                                    <select class="form-control" id="exampleSelectStatus" name="status">
+                                        <option>Đang chiếu</option>
+                                        <option>Tạm ngưng</option>
                                     </select>
                                 </div>
                             </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label for="exampleInputURL">URL</label>
-                                    <input type="text" class="form-control" id="exampleInputURL" placeholder="" name="movie-url">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <label for="exampleInputActor">Diễn viên</label>
-                                    <input type="text" class="form-control" id="exampleInputActor" placeholder="" name="movie-performer">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
                             <div class="col-6">
                                 <div class="form-group">
-                                    <label for="exampleSelectGenre">Thể loại</label>
-                                    <select class="form-control" id="exampleSelectGenre" name="movie-type">
+                                    <label for="exampleSelectGenre">Thể loại (Category)</label>
+                                    <select class="form-control" id="exampleSelectGenre" name="category">
                                         <option>Hành động</option>
                                         <option>Hoạt hình</option>
                                     </select>
@@ -78,36 +82,16 @@
                             </div>
                             <div class="col-6">
                                 <div class="form-group">
-                                    <label for="exampleSelectStatus">Trạng thái</label>
-                                    <select class="form-control" id="exampleSelectStatus" name="movie-status">
-                                        <option>Đang chiếu</option>
-                                        <option>Tạm ngưng</option>
-                                    </select>
+                                    <label for="exampleInputEmail3">Quốc gia (Country)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="country">
                                 </div>
                             </div>
-                        </div>
-                        <div class="row">
                             <div class="col-6">
                                 <div class="form-group">
-                                    <label for="poster">Poster</label>
-                                    <div class="custom-file">
-                                        <input type="file" class="custom-file-input" id="poster" name="movie-poster">
-                                        <label class="custom-file-label" for="poster"></label>
-                                    </div>
+                                    <label for="exampleInputEmail3">Đường dẫn phim (Link Embed)</label>
+                                    <input type="text" class="form-control" id="exampleInputEmail3" placeholder="" name="link_embed">
                                 </div>
                             </div>
-
-                            <div class="col-6">
-                                <div class="form-group">
-                                    <label for="exampleInputCity1">Đạo diễn</label>
-                                    <input type="text" class="form-control" id="exampleInputCity1" placeholder="" name="movie-director">
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="form-group">
-                            <label for="exampleTextarea1">Mô tả</label>
-                            <textarea class="form-control" id="exampleTextarea1" rows="4" name="movie-description"></textarea>
                         </div>
                         <button type="submit" class="btn btn-primary mr-2">Submit</button>
                         <a href="/apremiere/" class="btn btn-dark">Cancel</a>
