@@ -43,7 +43,7 @@ class AMoviesModel extends Database {
             $stmt->bind_param('sssssssssssss', $name, $thumb_url, $origin_name, $content, $year, $time, $slug, $lang, $quality, $status, $category, $country, $link_embed);
             if ($stmt->execute()){
                 $_SESSION['message_success'] = alertSuccess('Bạn đã công chiếu phim thành công');
-                header('Location: /amovies/');
+                echo '<script>window.history.go(-2);</script>';
             }
             $stmt->close();
         } catch (Exception $e) {

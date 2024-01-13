@@ -7,10 +7,8 @@
             unset($_SESSION['message_success']);
         }
         ?>
-        <div>
-            <a href="/history/" class="btn btn-outline-primary"><i class="mdi mdi-history"></i></a>
-            <a href="/apremiere/add/" class="btn btn-outline-success"><i class="mdi mdi-plus"></i></a>
-        </div>
+        <a href="/apremiere/" class="btn btn-outline-danger"><i class="mdi mdi-keyboard-return"></i></a>
+
     </div>
     <div class="row">
         <div class="col-lg-12 grid-margin stretch-card">
@@ -34,7 +32,7 @@
                             <tbody>
                             <?php
                             $count = 1;
-                            foreach ($data['movies'] as $r){
+                            foreach ($data['historyDeletedMovies'] as $r){
                                 ?>
                                 <tr class="text-center">
                                     <td><?= $count++ ?></td>
@@ -46,9 +44,7 @@
                                     <td><?= $r['country'] ?></td>
                                     <td><?= $r['category'] ?></td>
                                     <td>
-                                        <a href="/apremiere/edit/?id=<?= $r['id'] ?>" class="btn btn-outline-dribbble btn-sm"><i class="mdi mdi-pencil"></i></a>
-                                        <a href="/amovies/detail/?slug=<?= $r['slug'] ?>" class="btn btn-outline-warning btn-sm"><i class="mdi mdi-table-edit"></i></a>
-                                        <a href="/apremiere/delete/?id=<?= $r['id'] ?>" class="btn btn-outline-danger btn-sm" onclick="return confirm('Bạn có chắc muốn xóa phim này?')"><i class="mdi mdi-delete"></i></a>
+                                        <a href="/history/restore/?id=<?= $r['id'] ?>" class="btn btn-success btn-sm" onclick="return confirm('Bạn có chắc muốn phục hồi phim này?')"><i class="mdi mdi-history"></i></a>
                                     </td>
                                 </tr>
                                 <?php
@@ -58,13 +54,12 @@
                         </table>
                     </div>
                 </div>
-
                 <div class="pageination">
                     <nav aria-label="Page navigation example">
                         <ul class="pagination justify-content-center">
                             <?php for ($i = 1; $i <=  $data['number']; $i++) : ?>
                                 <li class="page-item">
-                                    <a style="color: #fff" href="/apremiere/?page=<?= $i ?>" class="page-link"><?= $i ?></a>
+                                    <a style="color: #fff" href="/history/?page=<?= $i ?>" class="page-link"><?= $i ?></a>
                                 </li>
                             <?php endfor ?>
                         </ul>
