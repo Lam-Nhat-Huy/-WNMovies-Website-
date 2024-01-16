@@ -1,5 +1,6 @@
 <?php
-class HomeController extends Controller {
+class HomeController extends Controller
+{
 
     protected $HomeModel;
 
@@ -8,7 +9,8 @@ class HomeController extends Controller {
         $this->HomeModel = $this->model('HomeModel');
     }
 
-    public function index(){
+    public function index()
+    {
         $this->view('ClientMasterView', [
             'pages' => '/client/HomeClientView',
         ]);

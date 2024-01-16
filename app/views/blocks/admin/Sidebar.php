@@ -48,7 +48,7 @@
                 </a>
             </li>
             <li class="nav-item menu-items">
-                <a class="nav-link" href="/acategory/">
+                <a class="nav-link" href="">
                     <span class="menu-icon">
                         <i class="mdi mdi-file-document-box"></i>
                     </span>

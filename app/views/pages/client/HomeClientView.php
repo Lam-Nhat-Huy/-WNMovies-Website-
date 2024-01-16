@@ -9,7 +9,7 @@
                             <div class="label">Adventure</div>
                             <h2>Fate / Stay Night: Unlimited Blade Works</h2>
                             <p>After 30 days of travel across the world...</p>
-                            <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
+                            <a href="/detail/"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,7 @@
                             <div class="label">Adventure</div>
                             <h2>Fate / Stay Night: Unlimited Blade Works</h2>
                             <p>After 30 days of travel across the world...</p>
-                            <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
+                            <a href="/detail/"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                             <div class="label">Adventure</div>
                             <h2>Fate / Stay Night: Unlimited Blade Works</h2>
                             <p>After 30 days of travel across the world...</p>
-                            <a href="#"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
+                            <a href="/detail/"><span>Watch Now</span> <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
+                                    <h5><a href="/detail/">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien</a></h5>
+                                    <h5><a href="/detail/">Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Shingeki no Kyojin Season 3 Part 2</a></h5>
+                                    <h5><a href="/detail/">Shingeki no Kyojin Season 3 Part 2</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -122,7 +122,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Fullmetal Alchemist: Brotherhood</a></h5>
+                                    <h5><a href="/detail/">Fullmetal Alchemist: Brotherhood</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -138,7 +138,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Shiratorizawa Gakuen Koukou</a></h5>
+                                    <h5><a href="/detail/">Shiratorizawa Gakuen Koukou</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +154,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Code Geass: Hangyaku no Lelouch R2</a></h5>
+                                    <h5><a href="/detail/">Code Geass: Hangyaku no Lelouch R2</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Sen to Chihiro no Kamikakushi</a></h5>
+                                    <h5><a href="/detail/">Sen to Chihiro no Kamikakushi</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -202,7 +202,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Kizumonogatari III: Reiket su-hen</a></h5>
+                                    <h5><a href="/detail/">Kizumonogatari III: Reiket su-hen</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -218,7 +218,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Shirogane Tamashii hen Kouhan sen</a></h5>
+                                    <h5><a href="/detail/">Shirogane Tamashii hen Kouhan sen</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -234,7 +234,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Rurouni Kenshin: Meiji Kenkaku Romantan</a></h5>
+                                    <h5><a href="/detail/">Rurouni Kenshin: Meiji Kenkaku Romantan</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -250,7 +250,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Mushishi Zoku Shou 2nd Season</a></h5>
+                                    <h5><a href="/detail/">Mushishi Zoku Shou 2nd Season</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -266,7 +266,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Monogatari Series: Second Season</a></h5>
+                                    <h5><a href="/detail/">Monogatari Series: Second Season</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -298,7 +298,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Great Teacher Onizuka</a></h5>
+                                    <h5><a href="/detail/">Great Teacher Onizuka</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -314,7 +314,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Fate/stay night Movie: Heaven's Feel - II. Lost</a></h5>
+                                    <h5><a href="/detail/">Fate/stay night Movie: Heaven's Feel - II. Lost</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -330,7 +330,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Mushishi Zoku Shou: Suzu no Shizuku</a></h5>
+                                    <h5><a href="/detail/">Mushishi Zoku Shou: Suzu no Shizuku</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -346,7 +346,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Fate/Zero 2nd Season</a></h5>
+                                    <h5><a href="/detail/">Fate/Zero 2nd Season</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -362,7 +362,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Kizumonogatari II: Nekket su-hen</a></h5>
+                                    <h5><a href="/detail/">Kizumonogatari II: Nekket su-hen</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -378,7 +378,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
+                                    <h5><a href="/detail/">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -410,7 +410,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Shouwa Genroku Rakugo Shinjuu</a></h5>
+                                    <h5><a href="/detail/">Shouwa Genroku Rakugo Shinjuu</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -426,7 +426,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Mushishi Zoku Shou 2nd Season</a></h5>
+                                    <h5><a href="/detail/">Mushishi Zoku Shou 2nd Season</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -442,7 +442,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Mushishi Zoku Shou: Suzu no Shizuku</a></h5>
+                                    <h5><a href="/detail/">Mushishi Zoku Shou: Suzu no Shizuku</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -458,7 +458,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
+                                    <h5><a href="/detail/">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -474,7 +474,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Fate/stay night Movie: Heaven's Feel - II. Lost</a></h5>
+                                    <h5><a href="/detail/">Fate/stay night Movie: Heaven's Feel - II. Lost</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -490,7 +490,7 @@
                                         <li>Active</li>
                                         <li>Movie</li>
                                     </ul>
-                                    <h5><a href="#">Kizumonogatari II: Nekketsu-hen</a></h5>
+                                    <h5><a href="/detail/">Kizumonogatari II: Nekketsu-hen</a></h5>
                                 </div>
                             </div>
                         </div>
@@ -510,35 +510,30 @@
                             <li data-filter=".years">Years</li>
                         </ul>
                         <div class="filter__gallery">
-                            <div class="product__sidebar__view__item set-bg mix day years"
-                                 data-setbg="/public/client/assets/img/sidebar/tv-1.jpg">
+                            <div class="product__sidebar__view__item set-bg mix day years" data-setbg="/public/client/assets/img/sidebar/tv-1.jpg">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
-                                <h5><a href="#">Boruto: Naruto next generations</a></h5>
+                                <h5><a href="/detail/">Boruto: Naruto next generations</a></h5>
                             </div>
-                            <div class="product__sidebar__view__item set-bg mix month week"
-                                 data-setbg="/public/client/assets/img/sidebar/tv-2.jpg">
+                            <div class="product__sidebar__view__item set-bg mix month week" data-setbg="/public/client/assets/img/sidebar/tv-2.jpg">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
-                                <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
+                                <h5><a href="/detail/">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                             </div>
-                            <div class="product__sidebar__view__item set-bg mix week years"
-                                 data-setbg="/public/client/assets/img/sidebar/tv-3.jpg">
+                            <div class="product__sidebar__view__item set-bg mix week years" data-setbg="/public/client/assets/img/sidebar/tv-3.jpg">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
-                                <h5><a href="#">Sword art online alicization war of underworld</a></h5>
+                                <h5><a href="/detail/">Sword art online alicization war of underworld</a></h5>
                             </div>
-                            <div class="product__sidebar__view__item set-bg mix years month"
-                                 data-setbg="/public/client/assets/img/sidebar/tv-4.jpg">
+                            <div class="product__sidebar__view__item set-bg mix years month" data-setbg="/public/client/assets/img/sidebar/tv-4.jpg">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
-                                <h5><a href="#">Fate/stay night: Heaven's Feel I. presage flower</a></h5>
+                                <h5><a href="/detail/">Fate/stay night: Heaven's Feel I. presage flower</a></h5>
                             </div>
-                            <div class="product__sidebar__view__item set-bg mix day"
-                                 data-setbg="/public/client/assets/img/sidebar/tv-5.jpg">
+                            <div class="product__sidebar__view__item set-bg mix day" data-setbg="/public/client/assets/img/sidebar/tv-5.jpg">
                                 <div class="ep">18 / ?</div>
                                 <div class="view"><i class="fa fa-eye"></i> 9141</div>
-                                <h5><a href="#">Fate stay night unlimited blade works</a></h5>
+                                <h5><a href="/detail/">Fate stay night unlimited blade works</a></h5>
                             </div>
                         </div>
                     </div>
@@ -555,7 +550,7 @@
                                     <li>Active</li>
                                     <li>Movie</li>
                                 </ul>
-                                <h5><a href="#">The Seven Deadly Sins: Wrath of the Gods</a></h5>
+                                <h5><a href="/detail/">The Seven Deadly Sins: Wrath of the Gods</a></h5>
                                 <span><i class="fa fa-eye"></i> 19.141 Viewes</span>
                             </div>
                         </div>
@@ -568,7 +563,7 @@
                                     <li>Active</li>
                                     <li>Movie</li>
                                 </ul>
-                                <h5><a href="#">Shirogane Tamashii hen Kouhan sen</a></h5>
+                                <h5><a href="/detail/">Shirogane Tamashii hen Kouhan sen</a></h5>
                                 <span><i class="fa fa-eye"></i> 19.141 Viewes</span>
                             </div>
                         </div>
@@ -581,7 +576,7 @@
                                     <li>Active</li>
                                     <li>Movie</li>
                                 </ul>
-                                <h5><a href="#">Kizumonogatari III: Reiket su-hen</a></h5>
+                                <h5><a href="/detail/">Kizumonogatari III: Reiket su-hen</a></h5>
                                 <span><i class="fa fa-eye"></i> 19.141 Viewes</span>
                             </div>
                         </div>
@@ -594,7 +589,7 @@
                                     <li>Active</li>
                                     <li>Movie</li>
                                 </ul>
-                                <h5><a href="#">Monogatari Series: Second Season</a></h5>
+                                <h5><a href="/detail/">Monogatari Series: Second Season</a></h5>
                                 <span><i class="fa fa-eye"></i> 19.141 Viewes</span>
                             </div>
                         </div>

@@ -1,8 +1,8 @@
 <div class="container-fluid page-body-wrapper">
     <!-- partial:partials/_navbar.html -->
-    <nav class="navbar p-0 fixed-top d-flex flex-row"   >
+    <nav class="navbar p-0 fixed-top d-flex flex-row">
         <div class="navbar-brand-wrapper d-flex d-lg-none align-items-center justify-content-center">
-            <a class="navbar-brand brand-logo-mini" href="index.html"><img src="/public/admin/assets/images/logo-mini.svg" alt="logo" /></a>
+            <a class="navbar-brand brand-logo-mini" href="/home/"><img src="/public/admin/assets/images/logo-mini.svg" alt="logo" /></a>
         </div>
         <div class="navbar-menu-wrapper flex-grow d-flex align-items-stretch">
             <ul class="navbar-nav w-100">
@@ -40,7 +40,6 @@
             var confirmLogout = confirm("Bạn có muốn đăng xuất không?");
             if (confirmLogout) {
                 window.location.href = "/admin/logout/";
-            } else {
-            }
+            } else {}
         }
     </script>
